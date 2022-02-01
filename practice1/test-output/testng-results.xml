@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[hi]]>
+    </line>
+    <line>
+      <![CDATA[hi]]>
+    </line>
+    <line>
+      <![CDATA[hi]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="110" started-at="2021-12-12T16:21:05 IST" finished-at="2021-12-12T16:21:05 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="110" started-at="2021-12-12T16:21:05 IST" finished-at="2021-12-12T16:21:05 IST">
+      <class name="practice1.sample1">
+        <test-method status="PASS" signature="TC1()[pri:0, instance:practice1.sample1@4d95d2a2]" name="TC1" duration-ms="19" started-at="2021-12-12T16:21:05 IST" finished-at="2021-12-12T16:21:05 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[hi]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC1 -->
+        <test-method status="PASS" signature="TC2()[pri:0, instance:practice1.sample1@4d95d2a2]" name="TC2" duration-ms="3" started-at="2021-12-12T16:21:05 IST" finished-at="2021-12-12T16:21:05 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[hi]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC2 -->
+        <test-method status="PASS" signature="TC3()[pri:0, instance:practice1.sample1@4d95d2a2]" name="TC3" duration-ms="2" started-at="2021-12-12T16:21:05 IST" finished-at="2021-12-12T16:21:05 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[hi]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC3 -->
+      </class> <!-- practice1.sample1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
